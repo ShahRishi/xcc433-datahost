@@ -1,0 +1,2371 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1179512,40.1206656 ]
+    },
+    "properties": {
+    "GeoDescription":"Abington",
+    "TreeCanopy":53.84,
+    "PediatricAsthmaPrevalence":"9.5",
+    "AsthmaPrevalence":9,
+    "LungCancer":"76"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6484627,42.066186 ]
+    },
+    "properties": {
+    "GeoDescription":"Agawam",
+    "TreeCanopy":41.37,
+    "PediatricAsthmaPrevalence":"11.7",
+    "AsthmaPrevalence":6,
+    "LungCancer":"160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.174395251,53.2615356 ]
+    },
+    "properties": {
+    "GeoDescription":"Alford",
+    "TreeCanopy":69.53,
+    "PediatricAsthmaPrevalence":"0",
+    "AsthmaPrevalence":0,
+    "LungCancer":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2913405,45.2332985 ]
+    },
+    "properties": {
+    "GeoDescription":"Andover",
+    "TreeCanopy":55.48,
+    "PediatricAsthmaPrevalence":"11.1",
+    "AsthmaPrevalence":5,
+    "LungCancer":"79"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8147523,41.3437229 ]
+    },
+    "properties": {
+    "GeoDescription":"Aquinnah",
+    "TreeCanopy":50.51,
+    "PediatricAsthmaPrevalence":"0",
+    "AsthmaPrevalence":0,
+    "LungCancer":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1071186,32.7355816 ]
+    },
+    "properties": {
+    "GeoDescription":"Arlington",
+    "TreeCanopy":26.91,
+    "PediatricAsthmaPrevalence":"8.6",
+    "AsthmaPrevalence":4,
+    "LungCancer":"150"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.1274125,-33.8894781 ]
+    },
+    "properties": {
+    "GeoDescription":"Ashfield",
+    "TreeCanopy":73.3,
+    "PediatricAsthmaPrevalence":"12.3",
+    "AsthmaPrevalence":0,
+    "LungCancer":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2806515,41.9438129 ]
+    },
+    "properties": {
+    "GeoDescription":"Attleboro",
+    "TreeCanopy":53.32,
+    "PediatricAsthmaPrevalence":"8.8",
+    "AsthmaPrevalence":8,
+    "LungCancer":"180"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.4807825,32.6098566 ]
+    },
+    "properties": {
+    "GeoDescription":"Auburn",
+    "TreeCanopy":51.97,
+    "PediatricAsthmaPrevalence":"10.3",
+    "AsthmaPrevalence":7,
+    "LungCancer":"81"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.3499234,41.6718684 ]
+    },
+    "properties": {
+    "GeoDescription":"Barnstable",
+    "TreeCanopy":42.79,
+    "PediatricAsthmaPrevalence":"7.9",
+    "AsthmaPrevalence":3,
+    "LungCancer":"201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2386756,48.4086571 ]
+    },
+    "properties": {
+    "GeoDescription":"Belmont",
+    "TreeCanopy":35.83,
+    "PediatricAsthmaPrevalence":"10.3",
+    "AsthmaPrevalence":4,
+    "LungCancer":"79"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3888599,52.5170365 ]
+    },
+    "properties": {
+    "GeoDescription":"Berlin",
+    "TreeCanopy":64.12,
+    "PediatricAsthmaPrevalence":"7.7",
+    "AsthmaPrevalence":0,
+    "LungCancer":"13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8800491,42.5584284 ]
+    },
+    "properties": {
+    "GeoDescription":"Beverly",
+    "TreeCanopy":45.58,
+    "PediatricAsthmaPrevalence":"10.4",
+    "AsthmaPrevalence":11,
+    "LungCancer":"175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.268947,42.5584264 ]
+    },
+    "properties": {
+    "GeoDescription":"Billerica",
+    "TreeCanopy":46.29,
+    "PediatricAsthmaPrevalence":"8.4",
+    "AsthmaPrevalence":5,
+    "LungCancer":"192"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.060511,42.3554334 ]
+    },
+    "properties": {
+    "GeoDescription":"Boston",
+    "TreeCanopy":16.96,
+    "PediatricAsthmaPrevalence":"16.8",
+    "AsthmaPrevalence":10,
+    "LungCancer":"1751"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0041229,42.2205956 ]
+    },
+    "properties": {
+    "GeoDescription":"Braintree",
+    "TreeCanopy":39.57,
+    "PediatricAsthmaPrevalence":"12.3",
+    "AsthmaPrevalence":9,
+    "LungCancer":"154"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0183787,42.0834335 ]
+    },
+    "properties": {
+    "GeoDescription":"Brockton",
+    "TreeCanopy":34.72,
+    "PediatricAsthmaPrevalence":"15.1",
+    "AsthmaPrevalence":16,
+    "LungCancer":"387"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.848085,41.8228378 ]
+    },
+    "properties": {
+    "GeoDescription":"Brookfield",
+    "TreeCanopy":68.29,
+    "PediatricAsthmaPrevalence":"12.9",
+    "AsthmaPrevalence":0,
+    "LungCancer":"28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1211635,42.3317642 ]
+    },
+    "properties": {
+    "GeoDescription":"Brookline",
+    "TreeCanopy":39.9,
+    "PediatricAsthmaPrevalence":"7.2",
+    "AsthmaPrevalence":2,
+    "LungCancer":"121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7136715,51.8027259 ]
+    },
+    "properties": {
+    "GeoDescription":"Buckland",
+    "TreeCanopy":74.55,
+    "PediatricAsthmaPrevalence":"5.3",
+    "AsthmaPrevalence":0,
+    "LungCancer":"6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.212906,44.4761601 ]
+    },
+    "properties": {
+    "GeoDescription":"Burlington",
+    "TreeCanopy":41.68,
+    "PediatricAsthmaPrevalence":"12.9",
+    "AsthmaPrevalence":7,
+    "LungCancer":"99"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.139153737,52.19758465 ]
+    },
+    "properties": {
+    "GeoDescription":"Cambridge",
+    "TreeCanopy":16.21,
+    "PediatricAsthmaPrevalence":"11.5",
+    "AsthmaPrevalence":5,
+    "LungCancer":"210"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4730532,51.7345329 ]
+    },
+    "properties": {
+    "GeoDescription":"Chelmsford",
+    "TreeCanopy":44.91,
+    "PediatricAsthmaPrevalence":"15.5",
+    "AsthmaPrevalence":5,
+    "LungCancer":"131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1687007,51.4875167 ]
+    },
+    "properties": {
+    "GeoDescription":"Chelsea",
+    "TreeCanopy":5.38,
+    "PediatricAsthmaPrevalence":"10.5",
+    "AsthmaPrevalence":19,
+    "LungCancer":"117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.471770086,53.2141028 ]
+    },
+    "properties": {
+    "GeoDescription":"Cheshire",
+    "TreeCanopy":66.93,
+    "PediatricAsthmaPrevalence":"9.2",
+    "AsthmaPrevalence":0,
+    "LungCancer":"18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8908955,53.1908873 ]
+    },
+    "properties": {
+    "GeoDescription":"Chester",
+    "TreeCanopy":80.1,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5643258,38.661953 ]
+    },
+    "properties": {
+    "GeoDescription":"Chesterfield",
+    "TreeCanopy":77.94,
+    "PediatricAsthmaPrevalence":"22.4",
+    "AsthmaPrevalence":0,
+    "LungCancer":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6071119,42.1487691 ]
+    },
+    "properties": {
+    "GeoDescription":"Chicopee",
+    "TreeCanopy":27.43,
+    "PediatricAsthmaPrevalence":"17.9",
+    "AsthmaPrevalence":12,
+    "LungCancer":"271"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7447501,41.3431688 ]
+    },
+    "properties": {
+    "GeoDescription":"Chilmark",
+    "TreeCanopy":54.72,
+    "PediatricAsthmaPrevalence":"0",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3445341,39.2806451 ]
+    },
+    "properties": {
+    "GeoDescription":"Clarksburg",
+    "TreeCanopy":76.28,
+    "PediatricAsthmaPrevalence":"8.5",
+    "AsthmaPrevalence":0,
+    "LungCancer":"9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.420064,38.5896187 ]
+    },
+    "properties": {
+    "GeoDescription":"Clinton",
+    "TreeCanopy":43.73,
+    "PediatricAsthmaPrevalence":"7.8",
+    "AsthmaPrevalence":8,
+    "LungCancer":"60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.6888936,35.2521996 ]
+    },
+    "properties": {
+    "GeoDescription":"Conway",
+    "TreeCanopy":77.16,
+    "PediatricAsthmaPrevalence":"8.9",
+    "AsthmaPrevalence":0,
+    "LungCancer":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9368313,42.566751 ]
+    },
+    "properties": {
+    "GeoDescription":"Danvers",
+    "TreeCanopy":33.84,
+    "PediatricAsthmaPrevalence":"10",
+    "AsthmaPrevalence":9,
+    "LungCancer":"129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.583844,50.3514839 ]
+    },
+    "properties": {
+    "GeoDescription":"Dartmouth",
+    "TreeCanopy":56.8,
+    "PediatricAsthmaPrevalence":"17.5",
+    "AsthmaPrevalence":6,
+    "LungCancer":"122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.8222082,41.9063152 ]
+    },
+    "properties": {
+    "GeoDescription":"Dedham",
+    "TreeCanopy":43.62,
+    "PediatricAsthmaPrevalence":"11.5",
+    "AsthmaPrevalence":8,
+    "LungCancer":"130"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2963726,42.6818928 ]
+    },
+    "properties": {
+    "GeoDescription":"Dracut",
+    "TreeCanopy":43.39,
+    "PediatricAsthmaPrevalence":"17.9",
+    "AsthmaPrevalence":8,
+    "LungCancer":"156"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9592096,42.0334341 ]
+    },
+    "properties": {
+    "GeoDescription":"East Bridgewater",
+    "TreeCanopy":57.96,
+    "PediatricAsthmaPrevalence":"7",
+    "AsthmaPrevalence":12,
+    "LungCancer":"46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.0498162,42.226196 ]
+    },
+    "properties": {
+    "GeoDescription":"East Brookfield",
+    "TreeCanopy":62.06,
+    "PediatricAsthmaPrevalence":"12.4",
+    "AsthmaPrevalence":0,
+    "LungCancer":"12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.973907,41.8301081 ]
+    },
+    "properties": {
+    "GeoDescription":"Eastham",
+    "TreeCanopy":28.89,
+    "PediatricAsthmaPrevalence":"10.9",
+    "AsthmaPrevalence":0,
+    "LungCancer":"42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6688036,42.2689274 ]
+    },
+    "properties": {
+    "GeoDescription":"Easthampton",
+    "TreeCanopy":49.02,
+    "PediatricAsthmaPrevalence":"8.9",
+    "AsthmaPrevalence":11,
+    "LungCancer":"69"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2099866,40.6916081 ]
+    },
+    "properties": {
+    "GeoDescription":"Easton",
+    "TreeCanopy":63.95,
+    "PediatricAsthmaPrevalence":"13.5",
+    "AsthmaPrevalence":7,
+    "LungCancer":"86"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.5327921,54.4838316 ]
+    },
+    "properties": {
+    "GeoDescription":"Egremont",
+    "TreeCanopy":64.62,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4315297,42.6148844 ]
+    },
+    "properties": {
+    "GeoDescription":"Erving",
+    "TreeCanopy":82.88,
+    "PediatricAsthmaPrevalence":"12.2",
+    "AsthmaPrevalence":0,
+    "LungCancer":"8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.201399,47.9673056 ]
+    },
+    "properties": {
+    "GeoDescription":"Everett",
+    "TreeCanopy":5.11,
+    "PediatricAsthmaPrevalence":"9.8",
+    "AsthmaPrevalence":7,
+    "LungCancer":"141"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9036487,41.6376043 ]
+    },
+    "properties": {
+    "GeoDescription":"Fairhaven",
+    "TreeCanopy":38.58,
+    "PediatricAsthmaPrevalence":"12",
+    "AsthmaPrevalence":8,
+    "LungCancer":"75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1546367,41.7010642 ]
+    },
+    "properties": {
+    "GeoDescription":"Fall River",
+    "TreeCanopy":54.05,
+    "PediatricAsthmaPrevalence":"17.7",
+    "AsthmaPrevalence":13,
+    "LungCancer":"458"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.0688262,50.1552197 ]
+    },
+    "properties": {
+    "GeoDescription":"Falmouth",
+    "TreeCanopy":50.17,
+    "PediatricAsthmaPrevalence":"15.8",
+    "AsthmaPrevalence":4,
+    "LungCancer":"192"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.8119837,42.5903661 ]
+    },
+    "properties": {
+    "GeoDescription":"Fitchburg",
+    "TreeCanopy":56.31,
+    "PediatricAsthmaPrevalence":"16.7",
+    "AsthmaPrevalence":15,
+    "LungCancer":"162"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4639835,27.7567667 ]
+    },
+    "properties": {
+    "GeoDescription":"Florida",
+    "TreeCanopy":78.97,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2478308,42.0653768 ]
+    },
+    "properties": {
+    "GeoDescription":"Foxborough",
+    "TreeCanopy":59.89,
+    "PediatricAsthmaPrevalence":"14.8",
+    "AsthmaPrevalence":7,
+    "LungCancer":"76"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4413097,42.3095704 ]
+    },
+    "properties": {
+    "GeoDescription":"Framingham",
+    "TreeCanopy":45.05,
+    "PediatricAsthmaPrevalence":"12",
+    "AsthmaPrevalence":4,
+    "LungCancer":"225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.9831716,42.5823564 ]
+    },
+    "properties": {
+    "GeoDescription":"Gardner",
+    "TreeCanopy":60.14,
+    "PediatricAsthmaPrevalence":"17.5",
+    "AsthmaPrevalence":6,
+    "LungCancer":"113"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.1624465,6.8137426 ]
+    },
+    "properties": {
+    "GeoDescription":"Georgetown",
+    "TreeCanopy":64.58,
+    "PediatricAsthmaPrevalence":"7.9",
+    "AsthmaPrevalence":12,
+    "LungCancer":"18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.2805799,44.5612668 ]
+    },
+    "properties": {
+    "GeoDescription":"Gill",
+    "TreeCanopy":63.07,
+    "PediatricAsthmaPrevalence":"6.9",
+    "AsthmaPrevalence":0,
+    "LungCancer":"13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2458192,51.8653705 ]
+    },
+    "properties": {
+    "GeoDescription":"Gloucester",
+    "TreeCanopy":54.39,
+    "PediatricAsthmaPrevalence":"9.6",
+    "AsthmaPrevalence":4,
+    "LungCancer":"185"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.834366,41.5824086 ]
+    },
+    "properties": {
+    "GeoDescription":"Goshen",
+    "TreeCanopy":77.15,
+    "PediatricAsthmaPrevalence":"22.2",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9288774,41.4211499 ]
+    },
+    "properties": {
+    "GeoDescription":"Gosnold",
+    "TreeCanopy":36.87,
+    "PediatricAsthmaPrevalence":"0",
+    "AsthmaPrevalence":0,
+    "LungCancer":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.8742626,43.9702453 ]
+    },
+    "properties": {
+    "GeoDescription":"Grafton",
+    "TreeCanopy":54.53,
+    "PediatricAsthmaPrevalence":"10.9",
+    "AsthmaPrevalence":6,
+    "LungCancer":"62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5959213,48.8376284 ]
+    },
+    "properties": {
+    "GeoDescription":"Granville",
+    "TreeCanopy":79.63,
+    "PediatricAsthmaPrevalence":"4.9",
+    "AsthmaPrevalence":0,
+    "LungCancer":"7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6002068,42.5876342 ]
+    },
+    "properties": {
+    "GeoDescription":"Greenfield",
+    "TreeCanopy":52.88,
+    "PediatricAsthmaPrevalence":"12.6",
+    "AsthmaPrevalence":12,
+    "LungCancer":"83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.1458063,40.3941712 ]
+    },
+    "properties": {
+    "GeoDescription":"Hancock",
+    "TreeCanopy":79.11,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.12678237,42.36790855 ]
+    },
+    "properties": {
+    "GeoDescription":"Harvard",
+    "TreeCanopy":62.19,
+    "PediatricAsthmaPrevalence":"7.2",
+    "AsthmaPrevalence":0,
+    "LungCancer":"13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2258741,51.7634675 ]
+    },
+    "properties": {
+    "GeoDescription":"Hatfield",
+    "TreeCanopy":46.83,
+    "PediatricAsthmaPrevalence":"11.6",
+    "AsthmaPrevalence":0,
+    "LungCancer":"17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0767724,42.7777829 ]
+    },
+    "properties": {
+    "GeoDescription":"Haverhill",
+    "TreeCanopy":47.75,
+    "PediatricAsthmaPrevalence":"15.5",
+    "AsthmaPrevalence":7,
+    "LungCancer":"249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.8130377,32.6133723 ]
+    },
+    "properties": {
+    "GeoDescription":"Hawley",
+    "TreeCanopy":80.23,
+    "PediatricAsthmaPrevalence":"0",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.474987,32.8365147 ]
+    },
+    "properties": {
+    "GeoDescription":"Heath",
+    "TreeCanopy":75.2,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8897676,42.2417669 ]
+    },
+    "properties": {
+    "GeoDescription":"Hingham",
+    "TreeCanopy":59.72,
+    "PediatricAsthmaPrevalence":"9.2",
+    "AsthmaPrevalence":6,
+    "LungCancer":"74"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.60765,42.2071434 ]
+    },
+    "properties": {
+    "GeoDescription":"Holyoke",
+    "TreeCanopy":54.71,
+    "PediatricAsthmaPrevalence":"19.9",
+    "AsthmaPrevalence":29,
+    "LungCancer":"142"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8422239,43.0922552 ]
+    },
+    "properties": {
+    "GeoDescription":"Hubbardston",
+    "TreeCanopy":75.04,
+    "PediatricAsthmaPrevalence":"5.1",
+    "AsthmaPrevalence":0,
+    "LungCancer":"15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0550731,40.7381635 ]
+    },
+    "properties": {
+    "GeoDescription":"Hudson",
+    "TreeCanopy":48.52,
+    "PediatricAsthmaPrevalence":"15.3",
+    "AsthmaPrevalence":8,
+    "LungCancer":"68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.445154,38.4192496 ]
+    },
+    "properties": {
+    "GeoDescription":"Huntington",
+    "TreeCanopy":77.04,
+    "PediatricAsthmaPrevalence":"8.5",
+    "AsthmaPrevalence":0,
+    "LungCancer":"12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1526345,52.0579495 ]
+    },
+    "properties": {
+    "GeoDescription":"Ipswich",
+    "TreeCanopy":41.92,
+    "PediatricAsthmaPrevalence":"8.6",
+    "AsthmaPrevalence":15,
+    "LungCancer":"46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2432791,44.650051 ]
+    },
+    "properties": {
+    "GeoDescription":"Lakeville",
+    "TreeCanopy":62.94,
+    "PediatricAsthmaPrevalence":"9.4",
+    "AsthmaPrevalence":11,
+    "LungCancer":"35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.2431478,42.5370488 ]
+    },
+    "properties": {
+    "GeoDescription":"Lanesborough",
+    "TreeCanopy":69.91,
+    "PediatricAsthmaPrevalence":"10.1",
+    "AsthmaPrevalence":0,
+    "LungCancer":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2359496,38.9719384 ]
+    },
+    "properties": {
+    "GeoDescription":"Lawrence",
+    "TreeCanopy":14.62,
+    "PediatricAsthmaPrevalence":"16.6",
+    "AsthmaPrevalence":17,
+    "LungCancer":"194"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.9588587,30.3031353 ]
+    },
+    "properties": {
+    "GeoDescription":"Lee",
+    "TreeCanopy":65.13,
+    "PediatricAsthmaPrevalence":"10",
+    "AsthmaPrevalence":0,
+    "LungCancer":"42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.5588947,40.8812978 ]
+    },
+    "properties": {
+    "GeoDescription":"Lenox",
+    "TreeCanopy":66.99,
+    "PediatricAsthmaPrevalence":"9.2",
+    "AsthmaPrevalence":0,
+    "LungCancer":"27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.7614891,42.5267443 ]
+    },
+    "properties": {
+    "GeoDescription":"Leominster",
+    "TreeCanopy":55.53,
+    "PediatricAsthmaPrevalence":"13.2",
+    "AsthmaPrevalence":10,
+    "LungCancer":"170"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4870907,42.473731 ]
+    },
+    "properties": {
+    "GeoDescription":"Leverett",
+    "TreeCanopy":80.04,
+    "PediatricAsthmaPrevalence":"20.1",
+    "AsthmaPrevalence":0,
+    "LungCancer":"9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.378872,43.5339571 ]
+    },
+    "properties": {
+    "GeoDescription":"Leyden",
+    "TreeCanopy":74.6,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3161718,42.6334247 ]
+    },
+    "properties": {
+    "GeoDescription":"Lowell",
+    "TreeCanopy":22.22,
+    "PediatricAsthmaPrevalence":"15.3",
+    "AsthmaPrevalence":12,
+    "LungCancer":"363"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.7193114,52.3679896 ]
+    },
+    "properties": {
+    "GeoDescription":"Ludlow",
+    "TreeCanopy":58.46,
+    "PediatricAsthmaPrevalence":"12.2",
+    "AsthmaPrevalence":5,
+    "LungCancer":"67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.812592,33.1474257 ]
+    },
+    "properties": {
+    "GeoDescription":"Lynn",
+    "TreeCanopy":27.41,
+    "PediatricAsthmaPrevalence":"12.3",
+    "AsthmaPrevalence":13,
+    "LungCancer":"376"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.066163,42.4250964 ]
+    },
+    "properties": {
+    "GeoDescription":"Malden",
+    "TreeCanopy":15.74,
+    "PediatricAsthmaPrevalence":"10.9",
+    "AsthmaPrevalence":8,
+    "LungCancer":"214"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5154471,40.75839 ]
+    },
+    "properties": {
+    "GeoDescription":"Mansfield",
+    "TreeCanopy":56.9,
+    "PediatricAsthmaPrevalence":"15.8",
+    "AsthmaPrevalence":8,
+    "LungCancer":"65"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8578253,42.500096 ]
+    },
+    "properties": {
+    "GeoDescription":"Marblehead",
+    "TreeCanopy":33.98,
+    "PediatricAsthmaPrevalence":"7.5",
+    "AsthmaPrevalence":8,
+    "LungCancer":"67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5522874,42.3459271 ]
+    },
+    "properties": {
+    "GeoDescription":"Marlborough",
+    "TreeCanopy":49.02,
+    "PediatricAsthmaPrevalence":"13.7",
+    "AsthmaPrevalence":7,
+    "LungCancer":"132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1717987,44.6688524 ]
+    },
+    "properties": {
+    "GeoDescription":"Marshfield",
+    "TreeCanopy":51.9,
+    "PediatricAsthmaPrevalence":"9.1",
+    "AsthmaPrevalence":6,
+    "LungCancer":"120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1061639,42.4184296 ]
+    },
+    "properties": {
+    "GeoDescription":"Medford",
+    "TreeCanopy":29.89,
+    "PediatricAsthmaPrevalence":"9.5",
+    "AsthmaPrevalence":5,
+    "LungCancer":"246"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.064182,42.4564323 ]
+    },
+    "properties": {
+    "GeoDescription":"Melrose",
+    "TreeCanopy":35.93,
+    "PediatricAsthmaPrevalence":"10.6",
+    "AsthmaPrevalence":4,
+    "LungCancer":"101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1908924,42.7262016 ]
+    },
+    "properties": {
+    "GeoDescription":"Methuen",
+    "TreeCanopy":39.76,
+    "PediatricAsthmaPrevalence":"7.6",
+    "AsthmaPrevalence":6,
+    "LungCancer":"234"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9111517,41.8931576 ]
+    },
+    "properties": {
+    "GeoDescription":"Middleborough",
+    "TreeCanopy":62.71,
+    "PediatricAsthmaPrevalence":"12.9",
+    "AsthmaPrevalence":6,
+    "LungCancer":"146"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7120793,41.5165161 ]
+    },
+    "properties": {
+    "GeoDescription":"Middlefield",
+    "TreeCanopy":78.14,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.0570603,41.2222218 ]
+    },
+    "properties": {
+    "GeoDescription":"Milford",
+    "TreeCanopy":49.35,
+    "PediatricAsthmaPrevalence":"6",
+    "AsthmaPrevalence":7,
+    "LungCancer":"121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1792484,38.2722313 ]
+    },
+    "properties": {
+    "GeoDescription":"Monroe",
+    "TreeCanopy":82.49,
+    "PediatricAsthmaPrevalence":"0",
+    "AsthmaPrevalence":0,
+    "LungCancer":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.387742,36.2231079 ]
+    },
+    "properties": {
+    "GeoDescription":"Monterey",
+    "TreeCanopy":78.66,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.3006485,32.3669656 ]
+    },
+    "properties": {
+    "GeoDescription":"Montgomery",
+    "TreeCanopy":79.32,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3033045,44.2704946 ]
+    },
+    "properties": {
+    "GeoDescription":"Mount Washington",
+    "TreeCanopy":84.25,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9189371,42.4264859 ]
+    },
+    "properties": {
+    "GeoDescription":"Nahant",
+    "TreeCanopy":18.82,
+    "PediatricAsthmaPrevalence":"9.3",
+    "AsthmaPrevalence":0,
+    "LungCancer":"20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.346996,42.2836393 ]
+    },
+    "properties": {
+    "GeoDescription":"Natick",
+    "TreeCanopy":47.09,
+    "PediatricAsthmaPrevalence":"8.9",
+    "AsthmaPrevalence":7,
+    "LungCancer":"109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.2315036,42.60753 ]
+    },
+    "properties": {
+    "GeoDescription":"New Ashford",
+    "TreeCanopy":80.62,
+    "PediatricAsthmaPrevalence":"0",
+    "AsthmaPrevalence":0,
+    "LungCancer":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.934205,41.6362152 ]
+    },
+    "properties": {
+    "GeoDescription":"New Bedford",
+    "TreeCanopy":31.8,
+    "PediatricAsthmaPrevalence":"18.2",
+    "AsthmaPrevalence":17,
+    "LungCancer":"460"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.2423092,42.1053708 ]
+    },
+    "properties": {
+    "GeoDescription":"New Marlborough",
+    "TreeCanopy":74.46,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8476304,39.7075473 ]
+    },
+    "properties": {
+    "GeoDescription":"New Salem",
+    "TreeCanopy":81.58,
+    "PediatricAsthmaPrevalence":"9.9",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.740504,30.8118989 ]
+    },
+    "properties": {
+    "GeoDescription":"Newton",
+    "TreeCanopy":39.88,
+    "PediatricAsthmaPrevalence":"10.9",
+    "AsthmaPrevalence":3,
+    "LungCancer":"261"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1127065,42.6839894 ]
+    },
+    "properties": {
+    "GeoDescription":"North Andover",
+    "TreeCanopy":57.46,
+    "PediatricAsthmaPrevalence":"9.3",
+    "AsthmaPrevalence":4,
+    "LungCancer":"86"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3328328,41.9834324 ]
+    },
+    "properties": {
+    "GeoDescription":"North Attleborough",
+    "TreeCanopy":50.37,
+    "PediatricAsthmaPrevalence":"13.7",
+    "AsthmaPrevalence":7,
+    "LungCancer":"80"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.902807277,52.23433665 ]
+    },
+    "properties": {
+    "GeoDescription":"Northampton",
+    "TreeCanopy":58.68,
+    "PediatricAsthmaPrevalence":"18.1",
+    "AsthmaPrevalence":5,
+    "LungCancer":"88"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2985578,52.6592107 ]
+    },
+    "properties": {
+    "GeoDescription":"Northborough",
+    "TreeCanopy":57.98,
+    "PediatricAsthmaPrevalence":"7.5",
+    "AsthmaPrevalence":10,
+    "LungCancer":"43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6498211,42.1324443 ]
+    },
+    "properties": {
+    "GeoDescription":"Northbridge",
+    "TreeCanopy":61.5,
+    "PediatricAsthmaPrevalence":"6.7",
+    "AsthmaPrevalence":6,
+    "LungCancer":"57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.6987129,40.7055931 ]
+    },
+    "properties": {
+    "GeoDescription":"Norwood",
+    "TreeCanopy":34.13,
+    "PediatricAsthmaPrevalence":"13",
+    "AsthmaPrevalence":6,
+    "LungCancer":"151"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5684713,41.4538523 ]
+    },
+    "properties": {
+    "GeoDescription":"Oak Bluffs",
+    "TreeCanopy":40.42,
+    "PediatricAsthmaPrevalence":"7.8",
+    "AsthmaPrevalence":0,
+    "LungCancer":"21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.74996764,52.66666035 ]
+    },
+    "properties": {
+    "GeoDescription":"Oakham",
+    "TreeCanopy":75.41,
+    "PediatricAsthmaPrevalence":"6.5",
+    "AsthmaPrevalence":0,
+    "LungCancer":"8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9086066,47.9027336 ]
+    },
+    "properties": {
+    "GeoDescription":"Orleans",
+    "TreeCanopy":33.83,
+    "PediatricAsthmaPrevalence":"4.5",
+    "AsthmaPrevalence":0,
+    "LungCancer":"28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.79881107,41.71546145 ]
+    },
+    "properties": {
+    "GeoDescription":"Otis",
+    "TreeCanopy":77.51,
+    "PediatricAsthmaPrevalence":"17.7",
+    "AsthmaPrevalence":0,
+    "LungCancer":"10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2578499,51.7520131 ]
+    },
+    "properties": {
+    "GeoDescription":"Oxford",
+    "TreeCanopy":60.56,
+    "PediatricAsthmaPrevalence":"9",
+    "AsthmaPrevalence":9,
+    "LungCancer":"53"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9286609,42.5278731 ]
+    },
+    "properties": {
+    "GeoDescription":"Peabody",
+    "TreeCanopy":31.76,
+    "PediatricAsthmaPrevalence":"6.2",
+    "AsthmaPrevalence":6,
+    "LungCancer":"277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.8099884,33.285669 ]
+    },
+    "properties": {
+    "GeoDescription":"Pelham",
+    "TreeCanopy":84.05,
+    "PediatricAsthmaPrevalence":"13.7",
+    "AsthmaPrevalence":0,
+    "LungCancer":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0458515,-6.8699697 ]
+    },
+    "properties": {
+    "GeoDescription":"Peru",
+    "TreeCanopy":78.1,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.145014,42.5506002 ]
+    },
+    "properties": {
+    "GeoDescription":"Phillipston",
+    "TreeCanopy":78.71,
+    "PediatricAsthmaPrevalence":"13.1",
+    "AsthmaPrevalence":0,
+    "LungCancer":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.260018,42.451302 ]
+    },
+    "properties": {
+    "GeoDescription":"Pittsfield",
+    "TreeCanopy":51.22,
+    "PediatricAsthmaPrevalence":"14.4",
+    "AsthmaPrevalence":5,
+    "LungCancer":"249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2054345,41.6086711 ]
+    },
+    "properties": {
+    "GeoDescription":"Plainfield",
+    "TreeCanopy":75.66,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.1425658,50.3712659 ]
+    },
+    "properties": {
+    "GeoDescription":"Plymouth",
+    "TreeCanopy":54.05,
+    "PediatricAsthmaPrevalence":"10.6",
+    "AsthmaPrevalence":5,
+    "LungCancer":"275"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.1858639,42.0525612 ]
+    },
+    "properties": {
+    "GeoDescription":"Provincetown",
+    "TreeCanopy":16.31,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0037374,42.2509914 ]
+    },
+    "properties": {
+    "GeoDescription":"Quincy",
+    "TreeCanopy":32.49,
+    "PediatricAsthmaPrevalence":"8.3",
+    "AsthmaPrevalence":5,
+    "LungCancer":"479"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8107962,38.0472916 ]
+    },
+    "properties": {
+    "GeoDescription":"Randolph",
+    "TreeCanopy":42.51,
+    "PediatricAsthmaPrevalence":"16.4",
+    "AsthmaPrevalence":9,
+    "LungCancer":"96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0119948,42.4084302 ]
+    },
+    "properties": {
+    "GeoDescription":"Revere",
+    "TreeCanopy":8.53,
+    "PediatricAsthmaPrevalence":"8.5",
+    "AsthmaPrevalence":8,
+    "LungCancer":"277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0357266,41.1519319 ]
+    },
+    "properties": {
+    "GeoDescription":"Rockland",
+    "TreeCanopy":51.99,
+    "PediatricAsthmaPrevalence":"10.8",
+    "AsthmaPrevalence":9,
+    "LungCancer":"82"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.033121,44.9391565 ]
+    },
+    "properties": {
+    "GeoDescription":"Salem",
+    "TreeCanopy":28.9,
+    "PediatricAsthmaPrevalence":"12.2",
+    "AsthmaPrevalence":9,
+    "LungCancer":"166"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.1299243,42.1131485 ]
+    },
+    "properties": {
+    "GeoDescription":"Sandisfield",
+    "TreeCanopy":79.82,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.010051,42.4648183 ]
+    },
+    "properties": {
+    "GeoDescription":"Saugus",
+    "TreeCanopy":34.71,
+    "PediatricAsthmaPrevalence":"13.2",
+    "AsthmaPrevalence":9,
+    "LungCancer":"156"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.384660381,45.49489515 ]
+    },
+    "properties": {
+    "GeoDescription":"Savoy",
+    "TreeCanopy":78.61,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4702278,53.3806626 ]
+    },
+    "properties": {
+    "GeoDescription":"Sheffield",
+    "TreeCanopy":64.31,
+    "PediatricAsthmaPrevalence":"8.7",
+    "AsthmaPrevalence":0,
+    "LungCancer":"19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.2276183,44.3783486 ]
+    },
+    "properties": {
+    "GeoDescription":"Shelburne",
+    "TreeCanopy":68.84,
+    "PediatricAsthmaPrevalence":"18.6",
+    "AsthmaPrevalence":0,
+    "LungCancer":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3701417,42.2397842 ]
+    },
+    "properties": {
+    "GeoDescription":"Sherborn",
+    "TreeCanopy":68.82,
+    "PediatricAsthmaPrevalence":"11.4",
+    "AsthmaPrevalence":0,
+    "LungCancer":"10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.7540658,52.707755 ]
+    },
+    "properties": {
+    "GeoDescription":"Shrewsbury",
+    "TreeCanopy":49.91,
+    "PediatricAsthmaPrevalence":"9.4",
+    "AsthmaPrevalence":4,
+    "LungCancer":"120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.075386706,51.16175085 ]
+    },
+    "properties": {
+    "GeoDescription":"Somerset",
+    "TreeCanopy":30.5,
+    "PediatricAsthmaPrevalence":"14.1",
+    "AsthmaPrevalence":7,
+    "LungCancer":"94"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0994968,42.3875968 ]
+    },
+    "properties": {
+    "GeoDescription":"Somerville",
+    "TreeCanopy":6.25,
+    "PediatricAsthmaPrevalence":"10.6",
+    "AsthmaPrevalence":5,
+    "LungCancer":"221"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.0304472,42.0641046 ]
+    },
+    "properties": {
+    "GeoDescription":"Southbridge",
+    "TreeCanopy":67.12,
+    "PediatricAsthmaPrevalence":"26.9",
+    "AsthmaPrevalence":23,
+    "LungCancer":"76"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.6439575,39.7990175 ]
+    },
+    "properties": {
+    "GeoDescription":"Springfield",
+    "TreeCanopy":30.75,
+    "PediatricAsthmaPrevalence":"16.6",
+    "AsthmaPrevalence":19,
+    "LungCancer":"491"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2338093,33.5442781 ]
+    },
+    "properties": {
+    "GeoDescription":"Stockbridge",
+    "TreeCanopy":67.41,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0993581,42.4802635 ]
+    },
+    "properties": {
+    "GeoDescription":"Stoneham",
+    "TreeCanopy":39.33,
+    "PediatricAsthmaPrevalence":"10",
+    "AsthmaPrevalence":6,
+    "LungCancer":"95"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2178997,42.9167389 ]
+    },
+    "properties": {
+    "GeoDescription":"Stoughton",
+    "TreeCanopy":52.83,
+    "PediatricAsthmaPrevalence":"15.7",
+    "AsthmaPrevalence":9,
+    "LungCancer":"120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9459248,51.6195955 ]
+    },
+    "properties": {
+    "GeoDescription":"Swansea",
+    "TreeCanopy":53.28,
+    "PediatricAsthmaPrevalence":"16.8",
+    "AsthmaPrevalence":7,
+    "LungCancer":"79"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1029086,51.0147895 ]
+    },
+    "properties": {
+    "GeoDescription":"Taunton",
+    "TreeCanopy":55.97,
+    "PediatricAsthmaPrevalence":"14.2",
+    "AsthmaPrevalence":7,
+    "LungCancer":"258"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2342248,42.6106479 ]
+    },
+    "properties": {
+    "GeoDescription":"Tewksbury",
+    "TreeCanopy":43.44,
+    "PediatricAsthmaPrevalence":"12",
+    "AsthmaPrevalence":5,
+    "LungCancer":"153"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.3562252,41.818446 ]
+    },
+    "properties": {
+    "GeoDescription":"Tolland",
+    "TreeCanopy":81.26,
+    "PediatricAsthmaPrevalence":"0",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.0518107,50.2633173 ]
+    },
+    "properties": {
+    "GeoDescription":"Truro",
+    "TreeCanopy":50.88,
+    "PediatricAsthmaPrevalence":"9.2",
+    "AsthmaPrevalence":0,
+    "LungCancer":"9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7503328,52.115183 ]
+    },
+    "properties": {
+    "GeoDescription":"Tyringham",
+    "TreeCanopy":76.72,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.73893,52.2928116 ]
+    },
+    "properties": {
+    "GeoDescription":"Wales",
+    "TreeCanopy":80.71,
+    "PediatricAsthmaPrevalence":"18.6",
+    "AsthmaPrevalence":0,
+    "LungCancer":"5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2358004,42.3756401 ]
+    },
+    "properties": {
+    "GeoDescription":"Waltham",
+    "TreeCanopy":32.95,
+    "PediatricAsthmaPrevalence":"10.2",
+    "AsthmaPrevalence":6,
+    "LungCancer":"207"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1098377,50.6868972 ]
+    },
+    "properties": {
+    "GeoDescription":"Wareham",
+    "TreeCanopy":44,
+    "PediatricAsthmaPrevalence":"9.9",
+    "AsthmaPrevalence":11,
+    "LungCancer":"207"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5815742,52.2814519 ]
+    },
+    "properties": {
+    "GeoDescription":"Warwick",
+    "TreeCanopy":83.24,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0365427,38.8950368 ]
+    },
+    "properties": {
+    "GeoDescription":"Washington",
+    "TreeCanopy":78.85,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1828321,42.3709299 ]
+    },
+    "properties": {
+    "GeoDescription":"Watertown",
+    "TreeCanopy":18.1,
+    "PediatricAsthmaPrevalence":"7.3",
+    "AsthmaPrevalence":5,
+    "LungCancer":"112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5473105,32.050618 ]
+    },
+    "properties": {
+    "GeoDescription":"Webster",
+    "TreeCanopy":56.29,
+    "PediatricAsthmaPrevalence":"12.1",
+    "AsthmaPrevalence":12,
+    "LungCancer":"108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.101169,46.035516 ]
+    },
+    "properties": {
+    "GeoDescription":"Wendell",
+    "TreeCanopy":82.88,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6213712,42.105237 ]
+    },
+    "properties": {
+    "GeoDescription":"West Springfield",
+    "TreeCanopy":44.22,
+    "PediatricAsthmaPrevalence":"10.1",
+    "AsthmaPrevalence":8,
+    "LungCancer":"136"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.3925772,42.3044517 ]
+    },
+    "properties": {
+    "GeoDescription":"West Stockbridge",
+    "TreeCanopy":71.56,
+    "PediatricAsthmaPrevalence":"12.7",
+    "AsthmaPrevalence":0,
+    "LungCancer":"8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7584859,42.1390327 ]
+    },
+    "properties": {
+    "GeoDescription":"Westfield",
+    "TreeCanopy":48.56,
+    "PediatricAsthmaPrevalence":"9.9",
+    "AsthmaPrevalence":4,
+    "LungCancer":"167"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.4543424,50.6096257 ]
+    },
+    "properties": {
+    "GeoDescription":"Weymouth",
+    "TreeCanopy":40.49,
+    "PediatricAsthmaPrevalence":"11.4",
+    "AsthmaPrevalence":11,
+    "LungCancer":"288"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6415173,42.4369478 ]
+    },
+    "properties": {
+    "GeoDescription":"Whately",
+    "TreeCanopy":62.56,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.5286172,46.9428831 ]
+    },
+    "properties": {
+    "GeoDescription":"Whitman",
+    "TreeCanopy":48.68,
+    "PediatricAsthmaPrevalence":"9.1",
+    "AsthmaPrevalence":12,
+    "LungCancer":"68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5604977,38.6381245 ]
+    },
+    "properties": {
+    "GeoDescription":"Williamstown",
+    "TreeCanopy":68.95,
+    "PediatricAsthmaPrevalence":"5.2",
+    "AsthmaPrevalence":0,
+    "LungCancer":"21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3131692,51.0612766 ]
+    },
+    "properties": {
+    "GeoDescription":"Winchester",
+    "TreeCanopy":45.63,
+    "PediatricAsthmaPrevalence":"9.9",
+    "AsthmaPrevalence":5,
+    "LungCancer":"63"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.604096404,51.48375775 ]
+    },
+    "properties": {
+    "GeoDescription":"Windsor",
+    "TreeCanopy":75.36,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"ns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1522766,42.4792618 ]
+    },
+    "properties": {
+    "GeoDescription":"Woburn",
+    "TreeCanopy":29.68,
+    "PediatricAsthmaPrevalence":"9",
+    "AsthmaPrevalence":8,
+    "LungCancer":"189"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.8018877,42.2625621 ]
+    },
+    "properties": {
+    "GeoDescription":"Worcester",
+    "TreeCanopy":33.75,
+    "PediatricAsthmaPrevalence":"14.8",
+    "AsthmaPrevalence":13,
+    "LungCancer":"683"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.5956434,43.6205056 ]
+    },
+    "properties": {
+    "GeoDescription":"Worthington",
+    "TreeCanopy":74.78,
+    "PediatricAsthmaPrevalence":"NS",
+    "AsthmaPrevalence":0,
+    "LungCancer":"7"
+    }
+  }
+]
+}
